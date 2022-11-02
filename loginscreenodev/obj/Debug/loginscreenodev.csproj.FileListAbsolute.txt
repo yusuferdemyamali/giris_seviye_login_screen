@@ -1,0 +1,12 @@
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\bin\Debug\loginscreenodev.exe.config
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\bin\Debug\loginscreenodev.exe
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\bin\Debug\loginscreenodev.pdb
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.Form1.resources
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.Properties.Resources.resources
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.exe
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.pdb
+C:\Users\yusuf\source\repos\loginscreenodev\loginscreenodev\obj\Debug\loginscreenodev.Sistem.resources
